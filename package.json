@@ -1,0 +1,22 @@
+{
+  "name": "practica2",
+  "version": "1.0.0",
+  "description": "practica 2 aux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnyMMColque/Practica2Aux.git"
+  },
+  "author": "Anahi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnyMMColque/Practica2Aux/issues"
+  },
+  "homepage": "https://github.com/AnyMMColque/Practica2Aux#readme",
+  "dependencies": {
+    "mustache": "^4.1.0"
+  }
+}
